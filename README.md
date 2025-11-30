@@ -21,5 +21,12 @@
   - `at_least_one`, `at_least_two`, `at_least_three`.
 
 Файлы данных **не хранятся в репозитории**. Их нужно скачать с официальной страницы задачи VK EdTech ML Challenge и положить локально, например так:
+```
+data/raw/
+users.tsv
+history.tsv
+validate.tsv
+validate_answers.tsv
+```
 
 
